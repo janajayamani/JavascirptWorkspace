@@ -28,3 +28,4 @@ const favoriteSubject = "Computer Science";
 const favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
 console.log(favoriteSubjectSentence);
 
+
